@@ -1,0 +1,37 @@
+.tab-content {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#heartIconDetails svg {
+    font-size: 34pt;
+    cursor: pointer;
+    margin-top: 22px;
+    color:#81002c;
+}
+
+.product-info-heading {
+    margin-left: 19px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#detailsCardText {
+    margin-left: 8px;
+}
+
+#details-footer {
+    text-align: right;
+}
+
+#detailsProduct img {
+    height: 500px;
+    object-fit: cover;
+}
+
+.tab-pane {
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+}
+

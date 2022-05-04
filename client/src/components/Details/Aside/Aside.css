@@ -1,0 +1,48 @@
+#btnContact {
+    padding: 6px;
+    margin-bottom: 45px;
+}
+
+#btnContact svg {
+    font-size: 17pt;
+    margin-right: 5px;
+    margin-bottom: 3px;
+}
+
+#product-price-heading {
+    display: inline;
+    font-family: serif;
+    font-weight: bold;
+}
+
+#price-heading {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#edit-icon svg {
+    margin-bottom: 7px;
+    margin-left: 7%;
+    font-size: 15pt;
+}
+
+#archive-icon svg {
+    font-size: 19pt;
+    margin-bottom: 8px;
+    margin-left: 6px;
+    cursor: pointer;
+}
+
+.product-details-seller {
+    text-align: center;
+}
+
+#guest-msg {
+    font-weight: bold;
+    font-family: serif;
+    font-size: 14pt;
+}
+
+#guest-msg a {
+    text-decoration: underline;
+}

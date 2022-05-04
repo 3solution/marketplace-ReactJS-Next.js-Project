@@ -1,0 +1,26 @@
+form {
+    margin: 0 auto;
+}
+
+.auth-heading {
+    text-align: center;
+    font-family: serif;
+    padding-bottom: 20px;
+}
+
+.btnAuth {
+    margin-top: 3%;
+}
+
+.bottom-msg-paragraph {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bottom-msg-paragraph a:hover {
+    text-decoration: underline;
+}
+
+.form-text {
+    margin-left: 4px;
+}

@@ -1,0 +1,24 @@
+#sider {
+    background-image: url('https://res.cloudinary.com/silenceiv/image/upload/v1616775706/4241166cd1c646c5_lwdbpm.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 113px;
+}
+
+#sider > input {
+    overflow: visible;
+    border-radius: 50px;
+    border: 1px;
+    font-size: 18pt;
+    background-image: url('https://res.cloudinary.com/silenceiv/image/upload/v1616775441/search-icon_i5dy7o.png');
+    background-repeat: no-repeat;
+    height: 55px;
+    padding-left: 68px;
+    background-position: left;
+    background-size: 31px;
+    background-position-x: 17px;
+}
